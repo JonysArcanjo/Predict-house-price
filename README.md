@@ -1,6 +1,8 @@
 ![GitHub](https://img.shields.io/github/license/JonysArcanjo/Predict-house-price)
 # Predict House Price
 
+### Welcome to this Data Science project!
+
 The objective of this project is to predict house prices using machine learning techniques. To achieve this, I performed a brief exploratory data analysis and directed the study to evaluate the Boruta feature selection technique, comparing its performance with the neural network both with and without the use of this technique.
 
 ## About Dataset
