@@ -23,6 +23,7 @@ Dataset source: [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction)
 - Numpy
 - Matplotlib
 - Boruta (for feature selection)
+- Gradio - user interface (ux)
 
 ## Metrics Used
 
