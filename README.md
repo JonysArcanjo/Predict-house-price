@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/JonysArcanjo/Predict-house-price)
 # Predict House Price
 
-![breno-assis-r3WAWU5Fi5Q-unsplash (1)](https://user-images.githubusercontent.com/48812740/228638355-c6af88d2-432e-4d25-a772-13fcab85102c.jpg)
+![Design sem nome (3)](https://user-images.githubusercontent.com/48812740/228647953-7479dbc2-c903-4d6c-ba39-5029fd56248a.png)
 
 
 
