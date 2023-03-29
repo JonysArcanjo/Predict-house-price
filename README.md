@@ -36,8 +36,23 @@ The following metrics were used to assess the performance of the models:
 - Adjusted R2
 
 ## Application in PRD
+Below are some characteristics of the house as input for the application to return the forecast of the house's value.
 
 ![APP_predicit_house_price-min (1)](https://user-images.githubusercontent.com/48812740/228641695-e94dc66e-eea1-4aa7-bb3b-d97d57fe0dfa.gif)
+
+Below is a list of the features used:
+- sqft_living: Living area square footage.
+- -sqft_lot: Lot size square footage.
+- waterfront: Indicates if the property has a waterfront view (1) or not (0).
+- view: Number of times the property has been viewed.
+- grade: Overall grade given to the housing unit, based on the King County grading system.
+- sqft_above: Square footage of the home's interior living space above ground level.
+- yr_built: Year the house was built.
+- zipcode: Zip code of the area where the property is located.
+- lat: Latitude of the property.
+- long: Longitude of the property.
+- sqft_living15: Average living area square footage of the nearest 15 houses.
+- sqft_lot15: Average lot size square footage of the nearest 15 houses.
 
 ## Conclusion
 
