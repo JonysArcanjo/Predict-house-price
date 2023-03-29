@@ -3,6 +3,9 @@
 
 ![breno-assis-r3WAWU5Fi5Q-unsplash (1)](https://user-images.githubusercontent.com/48812740/228638355-c6af88d2-432e-4d25-a772-13fcab85102c.jpg)
 
+
+
+
 ### Welcome to this Data Science project!
 
 The objective of this project is to predict house prices using machine learning techniques. To achieve this, I performed a brief exploratory data analysis and directed the study to evaluate the Boruta feature selection technique, comparing its performance with the neural network both with and without the use of this technique.
@@ -33,6 +36,7 @@ The following metrics were used to assess the performance of the models:
 
 ## Application in PRD
 
+![APP_predicit_house_price-min (1)](https://user-images.githubusercontent.com/48812740/228641695-e94dc66e-eea1-4aa7-bb3b-d97d57fe0dfa.gif)
 
 ## Conclusion
 
